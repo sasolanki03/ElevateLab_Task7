@@ -1,0 +1,18 @@
+----------------------------------Task 7: Identify and Remove Suspicious Browser Extensions-----------------------------------
+
+Objective: Learned to identify and remove potentially harmful browser extensions using Chrome.
+
+Tools Used: Google Chrome
+
+Extensions Reviewed:
+
+-Chrome Remote Desktop – Safe 
+-Google Docs Offline – Safe 
+-Sound Booster - Increase Volume Up – Suspicious (Removed)
+-Volume Master – Suspicious  (Removed)
+
+Actions Taken:
+-Opened chrome://extensions/
+-Checked permissions and reviews
+-Removed Sound Booster and Volume Master due to excessive permissions
+-Restarted browser for changes
